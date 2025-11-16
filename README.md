@@ -4,7 +4,7 @@
 
 <br>
 
-### Hi there! I'm Lee Daeun 👋
+## Hi there! I'm Lee Daeun 👋
 
 🔹"사용자 경험을 세심하게 고민하는 Front-end Developer"
 
