@@ -3,9 +3,9 @@
 ### 🔹"사용자 경험을 세심하게 고민하는 Front-end Developer"
 
 ## ✨ About Me
-- 🔍 기능 동작 원리부터 끝까지 파고드는 편입니다.  
-- 🎨 작은 UI 요소 하나도 신경 쓰며, 구조와 흐름을 정교하게 이해하려고 합니다.  
-- 🚀 새로 알게 된 개념은 직접 구현하면서 배우는 스타일입니다.
+-💡 기능의 원리와 구조를 끝까지 파고드는 개발자입니다.
+-🧩 작은 컴포넌트 배치 하나까지 신경 쓰며 UI/UX 완성도를 높이는 것을 좋아합니다.
+-🚀 모르는 개념은 절대 넘어가지 않고, 이해될 때까지 직접 구현하며 학습합니다.
 
 <!--
 **dani0910/dani0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
