@@ -7,6 +7,7 @@
 
 ### 🔹"사용자 경험을 세심하게 고민하는 Front-end Developer"
 
+<div style="margin: 20px 0;"></div>
 
 
 ## ✨ About Me
@@ -14,6 +15,7 @@
 -🧩 작은 컴포넌트 배치 하나까지 신경 쓰며 UI/UX 완성도를 높이는 것을 좋아합니다.
 -🚀 꾸준히 성장하는 개발자
 
+<div style="margin: 20px 0;"></div>
 
 ## 🛠️ Tech Stacks
 <div align="center">
