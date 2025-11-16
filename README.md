@@ -5,7 +5,7 @@
 
 ## Hi there! I'm Lee Daeun 👋
 
-### 🔹"사용자 경험을 세심하게 고민하는 Front-end Developer"
+-🔹"사용자 경험을 세심하게 고민하는 Front-end Developer"
 
 <div style="margin: 20px 0;"></div>
 
