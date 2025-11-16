@@ -2,22 +2,23 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6de,100:83abec&height=180&text=Daeun's%20GitHub&animation=fadeIn&fontColor=495265&fontSize=50" />
 </div>
 
+<br><br>
 
 ## Hi there! I'm Lee Daeun 👋
 
 🔹"사용자 경험을 세심하게 고민하는 Front-end Developer"
 
-<div style="margin: 20px 0;"></div>
+<br><br>
 
 
-## ✨ About Me
+### ✨ About Me
 -💡 기능의 원리와 구조를 끝까지 파고드는 개발자입니다.
 -🧩 작은 컴포넌트 배치 하나까지 신경 쓰며 UI/UX 완성도를 높이는 것을 좋아합니다.
 -🚀 꾸준히 성장하는 개발자
 
-<div style="margin: 20px 0;"></div>
+<br><br>
 
-## 🛠️ Tech Stacks
+### 🛠️ Tech Stacks
 <div align="center">
 
 <!-- 1줄 -->
