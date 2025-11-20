@@ -19,7 +19,7 @@
 
 <br><br>
 
-## 🛠️ Tech Stacks
+## ⚙️ Tech Stacks
 <div align="center">
 
 <!-- 1줄 -->
@@ -37,7 +37,7 @@
 </div>
 <br>
 
-## 🛠 Tools
+### 🛠 Tools
 <div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
@@ -47,7 +47,7 @@
 </div>
 <br>
 
-## 📚 Studying
+### 📚 Studying
 <div align="center">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" />
