@@ -42,7 +42,13 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F7C6D0?style=plastic&logo=figma&logoColor=black" />
+    <img src="https://img.shields.io/badge/Figma-A3C7F7?style=plastic&logo=figma&logoColor=black" />
+    <img src="https://img.shields.io/badge/Figma-D9D9D9?style=plastic&logo=figma&logoColor=black" />
+    <img src="https://img.shields.io/badge/Figma-CED4DA?style=plastic&logo=figma&logoColor=black" />
+    <img src="https://img.shields.io/badge/Figma-6A4C93?style=plastic&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F2E9D8?style=plastic&logo=figma&logoColor=black" />
+    <img src="https://img.shields.io/badge/Figma-A3C7F7?style=plastic&logo=figma&logoColor=black" />
+
     <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" />
 </div>
 <br>
