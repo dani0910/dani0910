@@ -2,6 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6de,100:83abec&height=180&text=Daeun's%20GitHub&animation=fadeIn&fontColor=495265&fontSize=50" />
 
 </div>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Daeun%27s%20GitHub&fontSize=90)
 
 
 <br>
