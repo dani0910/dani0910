@@ -3,6 +3,7 @@
     ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Daeun%27s%20GitHub&fontSize=80)
 
 </div>
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Daeun%27s%20GitHub&fontSize=90)
 
 
 <br>
