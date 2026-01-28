@@ -28,7 +28,7 @@
 <!-- 2줄 -->
 <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white" />
 </div>
 <br>
