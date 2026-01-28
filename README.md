@@ -49,9 +49,8 @@
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/React%20Native-7B61FF?style=plastic&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/>
 
-
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" />
 </div>
 
 
