@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=Javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Native-7B61FF?style=plastic&logo=react&logoColor=white" />
 <br>
 
 <!-- 2줄 -->
@@ -48,7 +49,6 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/React%20Native-7B61FF?style=plastic&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/>
 
 </div>
